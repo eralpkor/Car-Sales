@@ -7,7 +7,7 @@ import "./styles.scss";
 import { Provider } from "react-redux";
 import { createStore } from "redux";
 
-import reducer from "./reducers/carReducer";
+import reducer from "./reducers";
 
 
 
